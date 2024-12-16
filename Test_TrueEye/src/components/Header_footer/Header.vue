@@ -7,8 +7,8 @@
 </template>
 
 <script setup>
-import UpperContainer from './UpperContainer.vue';
-import NavBar from './NavBar.vue';
+import UpperContainer from '../UpperContainer.vue';
+import NavBar from '../NavBar.vue';
 </script>
 
 <style scoped>
